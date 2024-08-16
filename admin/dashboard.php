@@ -1,0 +1,3 @@
+<?php
+// Dashboard de administración
+?>

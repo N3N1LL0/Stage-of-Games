@@ -1,0 +1,3 @@
+<?php
+// Traducciones en japonés
+?>

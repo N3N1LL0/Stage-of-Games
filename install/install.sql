@@ -1,0 +1,1 @@
+-- SQL adicional para la instalación de tablas con prefijo

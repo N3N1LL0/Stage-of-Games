@@ -1,0 +1,1 @@
+// Script para manejar la lógica del sistema de estrellas

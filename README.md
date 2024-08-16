@@ -17,3 +17,8 @@ Discover The Best List of Silkroad Private Servers --> https://stageofgames.com/
 Discover The Best List of RuneScape Private Servers --> https://stageofgames.com/servers-list/runescape/<br>
 Discover The Best List of Counter Strike Private Servers --> https://stageofgames.com/servers-list/counter-strike/<br>
 Discover The Best List of Grand Theft Auto V Private Servers --> https://stageofgames.com/servers-list/grand-theft-auto-v/<br>
+
+_________________
+<b>Note:</b> This is an example project of how you might have a list of game servers. It is not the code used in Stage Of Games™, as it requires more complexity.<br>
+<b>Disclaimer:</b> We are not responsible for the use of this application, nor for guaranteeing future updates.<br>
+<b>Customization:</b> Would you like us to develop a project for you? Business Contact admin@stageofgames.com<br>
